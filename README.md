@@ -6,7 +6,7 @@
 
 Repositório dedicado aos exercícios práticos da disciplina de **Introdução à Linguagem C**. Este projeto contém implementações dos conceitos fundamentais da linguagem, servindo como um registro do meu progresso acadêmico.
 
-Este projeto faz parte da minha jornada de aprendizado no curso de **Análise e Desenvolvimento de Dados**.
+Este projeto faz parte da minha jornada de aprendizado no curso de **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
